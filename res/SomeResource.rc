@@ -1,0 +1,30 @@
+// Specifies that this resource file is in UTF-8 encoding
+#pragma code_page(65001)
+
+#include "resource.h"
+#include "winres.h"
+
+#include "strings.rc"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_TEST_BITMAP         BITMAP                  "test_bitmap.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_TEST_CURSOR         CURSOR                  "test_cursor.cur"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// User-defined
+//
+
+IDU_TEST_USER           SOME                    "test_user.bin"

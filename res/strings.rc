@@ -1,0 +1,7 @@
+#include "resource.h"
+
+STRINGTABLE 
+{
+    IDS_HELLO,   "Hello"
+    IDS_GOODBYE, "Goodbye"
+}
