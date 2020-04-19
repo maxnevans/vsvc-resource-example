@@ -11,7 +11,7 @@
 // Bitmap
 //
 
-IDB_TEST_BITMAP         BITMAP                  "test_bitmap.bmp"
+IDB_TEST_BITMAP         BITMAP                  "user_resources/test_bitmap.bmp"
 
 
 /////////////////////////////////////////////////////////////////////////////
@@ -19,7 +19,7 @@ IDB_TEST_BITMAP         BITMAP                  "test_bitmap.bmp"
 // Cursor
 //
 
-IDC_TEST_CURSOR         CURSOR                  "test_cursor.cur"
+IDC_TEST_CURSOR         CURSOR                  "user_resources/test_cursor.cur"
 
 
 /////////////////////////////////////////////////////////////////////////////
@@ -27,4 +27,4 @@ IDC_TEST_CURSOR         CURSOR                  "test_cursor.cur"
 // User-defined
 //
 
-IDU_TEST_USER           SOME                    "test_user.bin"
+IDU_TEST_USER           SOME                    "user_resources/test_user.bin"
